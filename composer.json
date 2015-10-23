@@ -1,0 +1,8 @@
+{
+  "name": "tomarq/detect",
+  "autoload": {
+    "psr-0" : {
+      "Tomarq\\Detect" : "src"
+    }
+  }
+}
